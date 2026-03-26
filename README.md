@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Binada 👋
 
-<!--
-**binadacode/binadacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate focused on building real-world AI and full-stack applications.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+- Build AI-powered applications (ML + real-world deployment)
+- Develop full-stack systems using modern web technologies
+- Solve practical problems with scalable solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Featured Projects
+- **RiceVision**  
+  Satellite-based paddy monitoring system for Sri Lanka  
+  → ML models for crop monitoring & yield prediction  
+
+- **Autoimmune Disease Prediction System**  
+  ML + RAG-based system for clinical risk prediction with AI explanations  
+
+- **Other Projects**  
+  CricBlog | Dogify | Trustfix  
+
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript, Java  
+- **Frontend:** React  
+- **Backend:** FastAPI, Node.js  
+- **Databases:** MongoDB, Supabase  
+- **Tools:** Git, Postman, AWS, Vercel  
+
+### 📈 Currently
+- BSc (Hons) Computer Science @ University of Westminster  
+- Focused on AI, backend systems, and scalable applications  
+
+### 📫 Connect
+- LinkedIn: https://linkedin.com/in/binada-matara-arachchige-078b30226  
+- GitHub: https://github.com/binadacode  
+
+---
+*Open to internships and opportunities in software engineering & AI*
