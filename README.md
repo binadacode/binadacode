@@ -1,6 +1,6 @@
-# 🧠 Binada
+# Binada Matara Arachchige
 
-**`AI Engineer • Full-Stack Developer • Problem Solver`**
+**`Full-Stack Developer • AI Engineer •  Problem Solver`**
 
 I’m a computer science undergraduate focused on building **real-world AI systems and scalable backend applications**.
 I enjoy turning complex problems into practical, production-ready solutions — especially in areas like **machine learning, data systems, and cloud deployment**.
